@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NACEST</string>
+    <string name="mic">Click to speak</string>
+    <string name="school_name">Nigerian Army College of Science and Technology (NACEST) Makurdi - Speech Recgnition App</string>
+</resources>
